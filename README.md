@@ -18,7 +18,7 @@ add new contents
    + 파랑
   
    ---
-   [구글] (https://google.com)
+   [구글](https://google.com)
 
    *Hello Hi*
    _Hello Hi_
